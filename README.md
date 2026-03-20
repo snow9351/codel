@@ -15,7 +15,7 @@
 - 💅 Modern UI
 
 # Getting started
-The simplest way to run Codel is to use a pre-built Docker image. You can find the latest image on the [Github Container Registry](https://github.com/snow/codel/pkgs/container/codel).
+The simplest way to run Codel is to use a pre-built Docker image. You can find the latest image on the [Github Container Registry](https://github.com/snow9351/codel/pkgs/container/codel).
 
 
 > [!IMPORTANT]
@@ -54,11 +54,11 @@ Check out the [DEVELOPMENT.md](./DEVELOPMENT.md) for more information.
 
 # Roadmap
 
-You can find the project's roadmap [here](https://github.com/snow/codel/milestones).
+You can find the project's roadmap [here](https://github.com/snow9351/codel/milestones).
 
 # Credits
 This project wouldn't be possible without:
 - https://arxiv.org/abs/2308.00352
 - https://arxiv.org/abs/2403.08299
 - https://www.cognition-labs.com/introducing-devin
-- https://github.com/snow/JsonGenius
+- https://github.com/snow9351/JsonGenius
